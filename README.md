@@ -1,4 +1,5 @@
 # zadania-20.10.2025
+<<<<<<< HEAD
 
 #opis projektu
 
@@ -7,3 +8,9 @@ wniosków wspierających podejmowanie decyzji. Główne etapy obejmują: identyf
 danych, ich oczyszczenie i transformację, eksploracyjną analizę.
 
 zadania 20.10.2025
+=======
+zadania 20.10.2025
+blazej
+mikolaj
+piotr
+>>>>>>> fd5ad82eefe5f59d781d691b8ced8edab43fab15
