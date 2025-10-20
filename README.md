@@ -15,3 +15,5 @@ mikolaj
 piotr
 >>>>>>> fd5ad82eefe5f59d781d691b8ced8edab43fab15
 zadanie 1
+
+ZADANIE 123 S
